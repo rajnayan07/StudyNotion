@@ -13,6 +13,7 @@ This starter pack includes a basic setup for using Tailwind CSS with React. To s
 
 ```bash
   git clone https://github.com/rajnayan07/StudyNotion
+```
 
 2.Install the required packages.
 
